@@ -110,7 +110,7 @@ const browsers = ['Opera', 'Chrome', 'Safari', 'Firefox', 'other'];
 /* start of desktop styles */
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 990px and min-width: 480px) {
 /* start of medium tablet styles */
 }
 
