@@ -106,7 +106,7 @@ const linksDevices =  [{'tablet' : 'https://en.wikipedia.org/wiki/Tablet_compute
 
 const browsers = ['Opera', 'Chrome', 'Safari', 'Firefox', 'other'];
 
-@media screen and (max-width: 991px) {
+@media screen and (min-width: 991px) {
 /* start of desktop styles */
 }
 
